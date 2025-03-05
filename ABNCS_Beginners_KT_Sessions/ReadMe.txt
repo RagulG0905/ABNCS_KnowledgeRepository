@@ -1,0 +1,1 @@
+This repository holds the KT sessions for the beginners or new joinees to ABNCS
